@@ -1,5 +1,5 @@
 # mdsimple
-A free modern template for the web
+A free modern template for the web.
 
 ![Preview](https://capella.pics/3d022d5d-11e2-4daf-9b9a-8eaf453aaefd)
 
@@ -7,7 +7,7 @@ A free modern template for the web
 
 ## Installation
 
-* First, Download the latest release directly from GitHub.
+* First, Download the [latest release](https://github.com/anton0kurilov/mdsimple/releases/) directly from GitHub.
 
 * You'll be presented with a number of files. The stuff you want to concern yourself with are index.html and folder /assets/img.
 
