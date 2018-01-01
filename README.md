@@ -17,7 +17,7 @@ A free modern template for the web.
 
 * Also very important in index.html is going to be the METADATA. Up inside the head tag, edit the dummy content in the meta tags with real data.
 
-* Add a favicon from realfavicongenerator.net to /assets/img directory. Remove avatar.png and put your image.
+* Add a favicon from [realfavicongenerator.net](realfavicongenerator.net) to /assets/img directory. Remove avatar.png and put your image.
 
 * That's all, HIT THAT (figurative) UPLOAD BUTTON!
 
