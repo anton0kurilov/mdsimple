@@ -28,3 +28,7 @@ Simply fork, make your changes/contributions, and create a pull request!
 
 Thanks to [Jackson Hayes](https://github.com/jacksonhvisuals) for inspiration, [FontAwesome.io](http://fontawesome.io/icons/) for amazing icons and Google Fonts for [Lato Font](https://fonts.google.com/specimen/Lato).
 
+## Problems?
+
+If you have any problems with the installation, you can write me at [Telegram](https://t.me/anton0kurilov).
+
