@@ -1,0 +1,145 @@
+/*-- GENERAL TAGS --*/
+
+html {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	height: 100vh;
+	background-color: #272121;
+	color: white;
+	font-family: 'Lato', 'Roboto', sans-serif;
+	font-size: 1em;
+	font-weight: 400;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+a,
+a:hover,
+a:visited {
+	color: white;
+	text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+	margin: 0;
+}
+
+/*-- MAIN TAGS --*/
+
+main {
+	text-align: center;
+}
+
+main .iam {
+	cursor: default;
+}
+
+main .iam .photo {
+	width: 140px;
+	height: 140px;
+	border-radius: 50%;
+	background-image: url('/assets/img/avatar.png');
+	text-align: center;
+	object-fit: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	margin: 0px auto 0px auto;
+	cursor: default;
+	box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 3px 5px -1px rgba(0, 0, 0, 0.3);
+}
+
+main .iam h1 {
+	font-size: 2.8em;
+	margin-top: 10px;
+}
+
+main .iam h3 {
+	color: #999;
+	margin-top: -3px;
+	font-weight: 400;
+}
+
+main .social {
+	margin: 1.5em 0em;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+main .social .flex {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+main .social .button {
+	display: flex;
+	align-items: center;
+	color: #303030;
+	text-decoration: none;
+	width: 170px;
+	height: 40px;
+	margin: 0px 2.5px;
+}
+
+main .social .fa {
+	width: 40px;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: white;
+	font-size: 1.3em;
+	background-color: rgba(0, 0, 0, .4);
+}
+
+main .social .na {
+	width: 130px;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: rgba(0, 0, 0, .15);
+	color: #eee;
+	font-size: 1em;
+	font-style: normal;
+	transition: all 300ms;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+main .social .na:hover {
+	background-color: rgba(0, 0, 0, .4);
+}
+
+@media screen and (max-width: 710px) {
+	main .social {
+		flex-direction: column;
+	}
+	main .social .margin {
+		margin-top: 5px;
+	}
+}
+
+@media screen and (max-width: 360px) {
+	main .social .button {
+		width: 150px;
+	}
+	main .social .na {
+		font-size: 0.95em;
+	}
+}
