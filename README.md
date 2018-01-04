@@ -13,7 +13,7 @@ A free modern template for the web.
 
 * Replace "Your name" and "Your Bio" with... your name and your bio.
 
-* Edit the href value of the social links. Obviously, change the text of the tag, too. Go to [FontAwesome.io](http://fontawesome.io/icons/) and search icons for your social links. Edit ```fa fa-link``` on ```fa fa-SEARCHED```
+* Edit the href value of the social links. Obviously, change the text of the tag, too. Go to [FontAwesome.io](http://fontawesome.io/icons/) and search icons for your social links. Edit ```fa fa-link``` on ```fa fa-SEARCHED```.
 
 * Also very important in index.html is going to be the METADATA. Up inside the head tag, edit the dummy content in the meta tags with real data.
 
