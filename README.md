@@ -17,16 +17,16 @@ A free modern template for the web.
 
 * Also very important in index.html is going to be the METADATA. Up inside the head tag, edit the dummy content in the meta tags with real data.
 
-* Add a favicon from [realfavicongenerator.net](realfavicongenerator.net) to /assets/img directory. Remove avatar.png and put your image.
+* Add a favicon from [realfavicongenerator.net](https://realfavicongenerator.net) to /assets/img directory. Remove avatar.png and put your image.
 
 * That's all, HIT THAT (figurative) UPLOAD BUTTON!
 
 ## Contributing
-Simply fork, make your changes/contributions, and create a pull request!
+Simply fork, make your changes/contributions, and create a [pull request](https://help.github.com/articles/creating-a-pull-request/)!
 
 ## Credits
 
-Thanks to [Jackson Hayes](https://github.com/jacksonhvisuals) for inspiration, [FontAwesome.io](http://fontawesome.io/icons/) for amazing icons and Google Fonts for [Lato Font](https://fonts.google.com/specimen/Lato).
+Thanks to [Jackson Hayes](https://github.com/jacksonhvisuals) for inspiration, [FontAwesome.io](http://fontawesome.io/icons/) for amazing icons, [Vincent Garreau](https://github.com/VincentGarreau) for [particles.js](https://github.com/VincentGarreau/particles.js/) and Google Fonts for [Lato Font](https://fonts.google.com/specimen/Lato).
 
 ## Problems?
 
