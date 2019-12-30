@@ -26,7 +26,7 @@ Simply fork, make your changes/contributions, and create a [pull request](https:
 
 ## Credits
 
-Thanks to [Jackson Hayes](https://github.com/jacksonhvisuals) for inspiration, [FontAwesome.io](http://fontawesome.io/icons/) for amazing icons, [Vincent Garreau](https://github.com/VincentGarreau) for [particles.js](https://github.com/VincentGarreau/particles.js/) and Google Fonts for [Lato Font](https://fonts.google.com/specimen/Lato).
+Thanks to [Jackson Hayes](https://github.com/jacksonhvisuals) for inspiration, [FontAwesome.io](http://fontawesome.io/icons/) for amazing icons and Google Fonts for [Rubik Font](https://fonts.google.com/specimen/Rubik).
 
 ## Problems?
 
