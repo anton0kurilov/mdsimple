@@ -3,8 +3,6 @@ A free modern template for the web.
 
 ![Preview](https://capella.pics/3d022d5d-11e2-4daf-9b9a-8eaf453aaefd)
 
-[See demo](https://kurilov.site)
-
 ## Installation
 
 * First, Download the [latest release](https://github.com/anton0kurilov/mdsimple/releases/) directly from GitHub.
